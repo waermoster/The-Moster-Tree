@@ -2,9 +2,9 @@
     "configurations": [
         {
             "type": "pwa-msedge",
-            "name": "https://raw.githack.com/waermoster/The-Moster-Tree/master/index.html.",
+            "name": "https://raw.githack.com/waermoster/The-Modding-Tree/master/index.html.",
             "request": "launch",
-            "url": "https://raw.githack.com/waermoster/The-Moster-Tree/master/index.html."
+            "url": "https://raw.githack.com/waermoster/The-Modding-Tree/master/index.html."
         }
     ]
 }
